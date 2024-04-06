@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "499006089918",
+    "project_id": "duan1shop-2ad6e",
+    "storage_bucket": "duan1shop-2ad6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499006089918:android:ba69b2bd9e41f3e57b4cef",
+        "android_client_info": {
+          "package_name": "dev.edu.poly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2d3SoQ6aY8CGDRvoqaAtMyLvrQr2OtvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
